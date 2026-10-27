@@ -1,0 +1,401 @@
+OrderID,Date,Product,Category,Quantity,UnitPrice,TotalAmount,CustomerAge,Region,Rating
+1001,2024-05-05,Laptop,Electronics,2,481.52,963.04,45.0,North,5.0
+1002,2024-12-12,Jeans,Clothing,1,33.03,33.03,56.0,East,4.5
+1003,2024-08-04,Novel,Books,1,35.19,35.19,32.0,Central,4.3
+1004,2024-04-21,Laptop,Electronics,1,193.78,193.78,40.0,East,2.1
+1005,2024-01-14,Dress,Clothing,2,42.16,84.32,25.0,Central,4.1
+1006,2024-08-02,Textbook,Books,2,18.89,37.78,55.0,Central,3.6
+1007,2024-05-22,Sneakers,Clothing,1,57.21,57.21,31.0,Central,
+1008,2024-06-23,Headphones,Electronics,3,188.95,566.85,30.0,South,3.5
+1009,2024-06-21,Cookware Set,Home & Kitchen,4,,371.28,37.0,West,2.8
+1010,2024-02-19,Laptop,Electronics,1,466.0,466.0,47.0,South,2.7
+1011,2024-05-15,Vacuum,Home & Kitchen,2,102.41,204.82,22.0,Central,4.0
+1012,2024-03-04,Tablet,Electronics,11,415.67,4572.37,46.0,Central,4.0
+1013,2024-05-30,Yoga Mat,Sports,1,43.67,43.67,36.0,Central,3.5
+1014,2024-04-08,Cookbook,Books,2,16.33,32.66,32.0,Central,4.8
+1015,2024-05-28,Laptop,Electronics,1,328.51,328.51,41.0,West,3.5
+1016,2024-07-13,Headphones,Electronics,1,495.08,495.08,29.0,East,4.4
+1017,2024-03-24,Coffee Maker,Home & Kitchen,1,137.86,137.86,50.0,North,4.6
+1018,2024-12-09,Vacuum,Home & Kitchen,5,48.89,244.45,27.0,West,3.5
+1019,2024-11-21,Blender,Home & Kitchen,6,114.8,688.8,32.0,Central,3.6
+1020,2024-03-24,Dress,Clothing,2,44.45,88.9,47.0,West,5.0
+1021,2024-11-23,Basketball,Sports,7,66.46,465.22,42.0,North,3.2
+1022,2024-01-29,Textbook,Books,5,24.15,120.75,37.0,North,5.0
+1023,2024-07-24,T-Shirt,Clothing,3,51.36,154.08,39.0,North,3.5
+1024,2024-10-17,Blender,Home & Kitchen,2,101.03,202.06,35.0,West,4.1
+1025,2024-07-21,Cookware Set,Home & Kitchen,2,,261.34,28.0,South,3.3
+1026,2024-03-12,Dumbbells,Sports,8,94.17,753.36,48.0,North,4.1
+1027,2024-05-14,Dress,Clothing,5,35.09,175.45,39.0,Central,4.7
+1028,2024-07-23,Biography,Books,5,33.19,165.95,29.0,Central,3.5
+1029,2024-09-17,Cookware Set,Home & Kitchen,1,91.25,91.25,41.0,West,4.0
+1030,2024-02-26,Yoga Mat,Sports,1,69.64,69.64,21.0,East,3.4
+1031,2024-11-01,Jeans,Clothing,1,45.29,45.29,36.0,South,4.2
+1032,2024-11-01,Tablet,Electronics,3,388.63,1165.89,41.0,South,3.7
+1033,2024-10-10,Helmet,Sports,10,48.27,482.7,18.0,North,3.8
+1034,2024-05-16,Laptop,Electronics,2,138.83,277.66,38.0,Central,5.0
+1035,2024-08-10,Blender,Home & Kitchen,1,73.44,73.44,35.0,North,4.1
+1036,2024-05-14,Sneakers,Clothing,1,55.54,55.54,51.0,East,4.5
+1037,2024-02-24,Textbook,Books,1,28.66,28.66,54.0,Central,2.5
+1038,2024-04-11,Air Fryer,Home & Kitchen,4,104.29,417.16,26.0,Central,3.3
+1039,2024-10-03,Jacket,Clothing,1,62.39,62.39,19.0,West,3.9
+1040,2024-06-14,Novel,Books,4,,54.84,,Central,5.0
+1041,2024-07-04,Yoga Mat,Sports,9,38.85,349.65,28.0,East,3.5
+1042,2024-05-03,Cookware Set,Home & Kitchen,8,145.28,1162.24,47.0,East,2.7
+1043,2024-09-05,Novel,Books,6,23.99,143.94,18.0,East,4.0
+1044,2024-03-06,Smartwatch,Electronics,1,461.46,461.46,41.0,West,
+1045,2024-05-15,Helmet,Sports,2,56.31,112.62,44.0,West,4.1
+1046,2024-04-18,Comic,Books,7,30.06,210.42,29.0,South,4.0
+1047,2024-07-23,Textbook,Books,1,33.26,33.26,41.0,North,3.2
+1048,2024-08-19,Coffee Maker,Home & Kitchen,1,59.3,59.3,60.0,Central,4.2
+1049,2024-02-02,Headphones,Electronics,4,209.1,836.4,26.0,West,4.5
+1050,2024-10-10,Blender,Home & Kitchen,2,129.58,259.16,49.0,Central,4.2
+1051,2024-01-04,Dress,Clothing,4,60.86,243.44,35.0,West,3.1
+1052,2024-02-04,Laptop,Electronics,1,216.5,216.5,37.0,West,4.1
+1053,2024-09-20,Smartphone,Electronics,7,,2531.76,38.0,East,5.0
+1054,2024-04-19,Jacket,Clothing,3,55.74,167.22,45.0,South,3.0
+1055,2024-10-22,Textbook,Books,1,9.66,9.66,25.0,Central,4.2
+1056,2024-07-27,Dumbbells,Sports,9,106.2,955.8,35.0,South,4.4
+1057,2024-12-03,T-Shirt,Clothing,1,85.16,85.16,43.0,East,
+1058,2024-07-29,Running Shoes,Sports,10,97.87,978.7,27.0,South,2.4
+1059,2024-02-01,Yoga Mat,Sports,6,,321.9,40.0,East,2.7
+1060,2024-05-07,Running Shoes,Sports,9,84.92,764.28,27.0,East,3.9
+1061,2024-08-17,Jeans,Clothing,3,89.33,267.99,38.0,Central,2.8
+1062,2024-05-22,Sneakers,Clothing,7,72.5,507.5,50.0,West,4.7
+1063,2024-08-14,Dumbbells,Sports,2,51.72,103.44,44.0,East,4.3
+1064,2024-11-29,Novel,Books,7,33.66,235.62,44.0,East,5.0
+1065,2024-05-01,Novel,Books,5,,132.75,49.0,East,4.4
+1066,2024-09-03,Sneakers,Clothing,7,45.31,317.17,28.0,South,3.6
+1067,2024-03-25,Sneakers,Clothing,3,24.93,74.79,65.0,East,2.1
+1068,2024-05-15,Yoga Mat,Sports,2,76.24,152.48,32.0,South,4.8
+1069,2024-12-22,Running Shoes,Sports,1,70.59,70.59,29.0,South,4.4
+1070,2024-04-07,Biography,Books,3,11.3,33.9,38.0,West,3.2
+1071,2024-10-23,Cookware Set,Home & Kitchen,3,116.49,349.47,18.0,East,4.0
+1072,2024-01-30,Novel,Books,5,16.31,81.55,28.0,North,3.7
+1073,2024-09-14,Smartwatch,Electronics,1,485.99,485.99,44.0,South,4.6
+1074,2024-09-17,Textbook,Books,2,13.68,27.36,32.0,East,3.2
+1075,2024-10-31,Headphones,Electronics,3,392.97,1178.91,22.0,East,4.6
+1076,2024-03-02,Headphones,Electronics,10,401.71,4017.1,63.0,South,4.7
+1077,2024-10-31,Textbook,Books,2,15.69,31.38,53.0,Central,3.2
+1078,2024-08-02,Smartwatch,Electronics,1,168.53,168.53,43.0,East,4.5
+1079,2024-06-10,Comic,Books,2,,23.28,18.0,Central,2.9
+1080,2024-05-02,Cookware Set,Home & Kitchen,1,92.06,92.06,,North,2.5
+1081,2024-12-09,Coffee Maker,Home & Kitchen,4,45.44,181.76,55.0,West,
+1082,2024-02-07,Coffee Maker,Home & Kitchen,3,142.78,428.34,26.0,North,4.2
+1083,2024-10-15,Tablet,Electronics,1,365.91,365.91,38.0,Central,3.5
+1084,2024-04-19,Laptop,Electronics,9,340.8,3067.2,,Central,2.7
+1085,2024-06-27,Cookbook,Books,2,23.73,47.46,36.0,West,4.3
+1086,2024-05-25,Headphones,Electronics,10,464.51,4645.1,41.0,North,3.2
+1087,2024-12-26,Sneakers,Clothing,1,44.03,44.03,30.0,Central,4.6
+1088,2024-01-05,Air Fryer,Home & Kitchen,1,123.61,123.61,48.0,Central,4.1
+1089,2024-03-09,Cookbook,Books,4,30.69,122.76,28.0,East,3.3
+1090,2024-10-10,Blender,Home & Kitchen,5,136.82,684.1,37.0,East,3.9
+1091,2024-11-05,Jacket,Clothing,2,74.91,149.82,44.0,North,3.6
+1092,2024-12-17,Jacket,Clothing,6,51.46,308.76,47.0,West,4.5
+1093,2024-05-08,Air Fryer,Home & Kitchen,1,148.31,148.31,53.0,South,3.8
+1094,2024-05-21,Laptop,Electronics,2,460.82,921.64,41.0,South,3.7
+1095,2024-03-07,Laptop,Electronics,10,340.04,3400.4,28.0,North,5.0
+1096,2024-10-09,Cookware Set,Home & Kitchen,2,79.44,158.88,51.0,South,4.5
+1097,2024-02-27,Helmet,Sports,5,92.64,463.2,,East,3.0
+1098,2024-01-19,Headphones,Electronics,1,331.07,331.07,49.0,Central,3.7
+1099,2024-03-16,Air Fryer,Home & Kitchen,2,54.05,108.1,42.0,Central,3.3
+1100,2024-06-06,Dumbbells,Sports,3,35.84,107.52,40.0,East,3.3
+1101,2024-04-17,Blender,Home & Kitchen,1,138.62,138.62,32.0,North,4.0
+1102,2024-10-13,T-Shirt,Clothing,1,89.1,89.1,20.0,North,2.5
+1103,2024-05-01,Helmet,Sports,6,105.65,633.9,,West,3.6
+1104,2024-01-13,Jeans,Clothing,5,60.19,300.95,48.0,South,3.7
+1105,2024-12-08,Jacket,Clothing,1,55.75,55.75,37.0,South,3.5
+1106,2024-12-25,Jacket,Clothing,1,30.52,30.52,41.0,West,3.1
+1107,2024-08-28,Tablet,Electronics,5,343.76,1718.8,,East,4.2
+1108,2024-06-28,Jeans,Clothing,2,81.13,162.26,40.0,South,3.8
+1109,2024-01-13,Cookware Set,Home & Kitchen,1,106.46,106.46,38.0,West,4.2
+1110,2024-05-22,Sneakers,Clothing,3,69.46,208.38,63.0,North,3.1
+1111,2024-11-24,Smartphone,Electronics,3,462.93,1388.79,64.0,North,3.1
+1112,2024-06-18,Biography,Books,1,14.08,14.08,18.0,Central,3.3
+1113,2024-04-01,Laptop,Electronics,3,154.15,462.45,42.0,North,5.0
+1114,2024-02-25,Cookbook,Books,2,30.97,61.94,27.0,East,4.2
+1115,2024-06-09,Biography,Books,8,31.21,249.68,22.0,North,5.0
+1116,2024-02-29,Helmet,Sports,9,98.95,890.55,52.0,Central,3.4
+1117,2024-05-10,Helmet,Sports,14,39.91,558.74,18.0,West,5.0
+1118,2024-09-23,Tablet,Electronics,11,440.79,4848.69,36.0,East,4.9
+1119,2024-08-08,Textbook,Books,2,16.38,32.76,38.0,North,3.8
+1120,2024-06-09,Smartphone,Electronics,5,479.29,2396.45,32.0,Central,4.4
+1121,2024-06-07,Smartphone,Electronics,2,173.43,346.86,39.0,Central,4.3
+1122,2024-12-22,Running Shoes,Sports,1,82.92,82.92,19.0,South,
+1123,2024-04-08,Air Fryer,Home & Kitchen,1,,120.59,56.0,West,3.9
+1124,2024-11-11,Basketball,Sports,3,97.8,293.4,62.0,West,5.0
+1125,2024-10-07,Cookbook,Books,7,19.89,139.23,45.0,South,5.0
+1126,2024-04-17,Smartphone,Electronics,4,204.86,819.44,50.0,North,2.2
+1127,2024-12-01,Helmet,Sports,2,63.59,127.18,34.0,Central,4.4
+1128,2024-08-14,Coffee Maker,Home & Kitchen,3,134.04,402.12,57.0,South,2.6
+1129,2024-03-27,Dress,Clothing,6,86.59,519.54,18.0,South,3.8
+1130,2024-12-05,Smartphone,Electronics,2,492.51,985.02,18.0,Central,3.7
+1131,2024-04-30,Cookbook,Books,4,,61.92,42.0,East,3.0
+1132,2024-03-16,Cookware Set,Home & Kitchen,1,81.48,81.48,37.0,West,4.7
+1133,2024-08-31,Laptop,Electronics,4,189.62,758.48,31.0,West,3.1
+1134,2024-07-31,Novel,Books,1,11.39,11.39,36.0,South,2.9
+1135,2024-09-10,Textbook,Books,1,18.84,18.84,61.0,South,
+1136,2024-12-01,Dumbbells,Sports,1,93.45,93.45,29.0,West,4.0
+1137,2024-04-22,Laptop,Electronics,7,470.33,3292.31,,South,3.6
+1138,2024-01-26,Dress,Clothing,5,73.01,365.05,31.0,South,3.3
+1139,2024-08-21,Textbook,Books,2,22.08,44.16,19.0,East,5.0
+1140,2024-10-13,Sneakers,Clothing,2,72.95,145.9,44.0,Central,4.1
+1141,2024-11-09,Cookbook,Books,3,23.37,70.11,36.0,South,2.9
+1142,2024-08-16,Biography,Books,3,15.55,46.65,28.0,Central,2.5
+1143,2024-05-12,Sneakers,Clothing,1,44.24,44.24,30.0,South,2.8
+1144,2024-09-05,Jacket,Clothing,1,82.61,82.61,58.0,Central,4.6
+1145,2024-02-09,Jacket,Clothing,5,56.14,280.7,38.0,South,3.0
+1146,2024-06-20,Cookware Set,Home & Kitchen,3,129.45,388.35,25.0,North,3.6
+1147,2024-03-11,Air Fryer,Home & Kitchen,2,83.57,167.14,49.0,East,5.0
+1148,2024-12-21,Jeans,Clothing,2,89.09,178.18,21.0,South,4.3
+1149,2024-07-31,Jeans,Clothing,1,32.82,32.82,30.0,East,3.4
+1150,2024-08-26,Running Shoes,Sports,1,51.02,51.02,38.0,Central,3.1
+1151,2024-08-03,Yoga Mat,Sports,2,108.55,217.1,35.0,West,3.0
+1152,2024-10-21,Helmet,Sports,11,98.9,1087.9,31.0,East,4.5
+1153,2024-06-29,Basketball,Sports,1,82.66,82.66,39.0,East,4.5
+1154,2024-10-02,Coffee Maker,Home & Kitchen,3,73.6,220.8,30.0,South,4.3
+1155,2024-09-06,Comic,Books,2,20.49,40.98,18.0,West,3.8
+1156,2024-09-05,Jacket,Clothing,1,63.72,63.72,45.0,South,2.3
+1157,2024-12-08,Tablet,Electronics,1,305.43,305.43,30.0,North,3.8
+1158,2024-03-06,Dumbbells,Sports,2,38.59,77.18,50.0,South,3.3
+1159,2024-07-20,Comic,Books,1,27.4,27.4,44.0,East,
+1160,2024-02-12,Comic,Books,2,20.12,40.24,44.0,East,3.6
+1161,2024-04-03,Dumbbells,Sports,6,107.11,642.66,,South,3.3
+1162,2024-06-16,Smartphone,Electronics,9,192.96,1736.64,39.0,South,3.7
+1163,2024-06-21,Sneakers,Clothing,3,79.32,237.96,42.0,North,3.4
+1164,2024-05-09,Running Shoes,Sports,1,41.0,41.0,42.0,South,3.4
+1165,2024-10-03,Tablet,Electronics,4,321.15,1284.6,48.0,East,3.5
+1166,2024-11-28,Smartphone,Electronics,2,431.22,862.44,18.0,West,2.9
+1167,2024-05-06,Laptop,Electronics,2,238.02,476.04,38.0,East,5.0
+1168,2024-03-19,T-Shirt,Clothing,1,83.22,83.22,47.0,Central,1.8
+1169,2024-12-08,Jeans,Clothing,8,64.64,517.12,20.0,South,4.8
+1170,2024-08-26,Smartwatch,Electronics,1,422.76,422.76,45.0,West,5.0
+1171,2024-11-06,Vacuum,Home & Kitchen,7,134.63,942.41,32.0,West,
+1172,2024-06-08,Novel,Books,1,29.09,29.09,38.0,West,3.4
+1173,2024-06-08,Smartwatch,Electronics,5,453.79,2268.95,50.0,East,3.3
+1174,2024-04-11,Biography,Books,1,31.85,31.85,34.0,South,2.9
+1175,2024-02-22,Smartwatch,Electronics,5,181.22,906.1,47.0,West,3.0
+1176,2024-10-16,Air Fryer,Home & Kitchen,4,116.94,467.76,42.0,East,5.0
+1177,2024-08-07,Smartphone,Electronics,1,254.64,4800.0,,Central,5.0
+1178,2024-11-27,Blender,Home & Kitchen,2,153.67,307.34,41.0,Central,2.8
+1179,2024-09-07,Blender,Home & Kitchen,3,113.37,340.11,39.0,South,4.5
+1180,2024-11-21,Tablet,Electronics,4,470.94,1883.76,28.0,North,4.2
+1181,2024-03-31,Dumbbells,Sports,3,77.55,232.65,,South,3.3
+1182,2024-10-02,Cookbook,Books,9,33.99,305.91,26.0,Central,3.7
+1183,2024-10-30,Basketball,Sports,13,96.71,1257.23,38.0,South,4.8
+1184,2024-02-14,Vacuum,Home & Kitchen,3,87.88,263.64,36.0,West,3.4
+1185,2024-08-25,Coffee Maker,Home & Kitchen,5,40.56,202.8,25.0,West,2.3
+1186,2024-06-21,Comic,Books,3,33.84,101.52,22.0,South,2.6
+1187,2024-04-03,Tablet,Electronics,5,294.58,1472.9,34.0,North,2.4
+1188,2024-05-12,Dumbbells,Sports,1,42.05,42.05,18.0,North,3.8
+1189,2024-12-25,Vacuum,Home & Kitchen,8,83.49,6200.0,60.0,Central,4.8
+1190,2024-09-21,Air Fryer,Home & Kitchen,1,119.62,119.62,34.0,East,2.8
+1191,2024-07-27,T-Shirt,Clothing,1,89.79,89.79,68.0,West,3.9
+1192,2024-12-19,Helmet,Sports,1,89.37,89.37,40.0,West,3.7
+1193,2024-01-09,Basketball,Sports,1,43.23,43.23,37.0,South,3.3
+1194,2024-07-26,Smartphone,Electronics,3,149.64,448.92,34.0,West,
+1195,2024-07-07,Jacket,Clothing,3,52.25,156.75,52.0,Central,1.9
+1196,2024-06-25,Helmet,Sports,1,42.51,42.51,21.0,Central,3.1
+1197,2024-06-29,Helmet,Sports,4,61.22,244.88,49.0,North,4.9
+1198,2024-05-08,Running Shoes,Sports,1,45.81,45.81,46.0,North,2.8
+1199,2024-06-10,T-Shirt,Clothing,1,29.53,29.53,31.0,West,4.2
+1200,2024-04-08,Smartwatch,Electronics,4,214.32,857.28,35.0,West,3.5
+1201,2024-10-28,Sneakers,Clothing,4,,321.04,33.0,North,4.8
+1202,2024-02-21,Comic,Books,4,14.53,58.12,45.0,North,3.5
+1203,2024-07-03,Jacket,Clothing,1,28.27,28.27,41.0,West,2.7
+1204,2024-12-28,Jacket,Clothing,2,82.76,165.52,31.0,East,4.7
+1205,2024-01-24,Textbook,Books,1,19.25,19.25,19.0,North,4.3
+1206,2024-12-23,Smartwatch,Electronics,3,278.53,835.59,18.0,North,5.0
+1207,2024-01-07,Sneakers,Clothing,2,86.52,173.04,31.0,East,4.2
+1208,2024-09-02,Cookbook,Books,7,22.16,155.12,39.0,South,3.9
+1209,2024-01-27,Running Shoes,Sports,2,29.35,58.7,41.0,West,2.3
+1210,2024-02-03,Coffee Maker,Home & Kitchen,4,70.95,283.8,40.0,East,3.6
+1211,2024-10-22,Basketball,Sports,13,70.87,921.31,31.0,East,3.1
+1212,2024-10-15,Headphones,Electronics,1,467.86,467.86,40.0,West,2.9
+1213,2024-03-01,Blender,Home & Kitchen,1,106.5,106.5,50.0,West,4.2
+1214,2024-11-01,Biography,Books,1,9.3,9.3,41.0,Central,4.7
+1215,2024-07-13,Textbook,Books,3,26.96,80.88,18.0,Central,2.6
+1216,2024-10-28,Basketball,Sports,3,31.37,94.11,44.0,North,3.1
+1217,2024-11-13,Running Shoes,Sports,1,77.26,77.26,30.0,Central,2.5
+1218,2024-04-16,Smartwatch,Electronics,2,258.38,516.76,26.0,East,4.7
+1219,2024-03-21,Jacket,Clothing,3,54.63,163.89,43.0,East,4.0
+1220,2024-02-08,Jeans,Clothing,4,37.01,148.04,31.0,Central,3.9
+1221,2024-08-18,T-Shirt,Clothing,3,62.79,188.37,,South,3.2
+1222,2024-01-17,Biography,Books,1,11.03,11.03,37.0,North,
+1223,2024-12-25,Jacket,Clothing,4,51.85,207.4,46.0,North,3.3
+1224,2024-05-15,Yoga Mat,Sports,5,84.81,424.05,45.0,West,2.4
+1225,2024-02-28,Textbook,Books,2,11.47,22.94,37.0,South,4.4
+1226,2024-05-16,Textbook,Books,1,23.63,23.63,42.0,West,4.3
+1227,2024-03-25,T-Shirt,Clothing,5,66.97,334.85,48.0,East,4.2
+1228,2024-05-27,Air Fryer,Home & Kitchen,1,98.73,98.73,43.0,Central,4.0
+1229,2024-12-18,Yoga Mat,Sports,1,74.36,74.36,25.0,South,4.7
+1230,2024-09-13,Coffee Maker,Home & Kitchen,8,156.53,1252.24,37.0,North,4.4
+1231,2024-02-11,Biography,Books,6,31.8,190.8,49.0,South,3.3
+1232,2024-06-14,Novel,Books,1,25.1,25.1,32.0,South,3.5
+1233,2024-02-16,Cookbook,Books,1,27.8,27.8,53.0,East,3.0
+1234,2024-01-11,Dress,Clothing,1,43.78,43.78,55.0,Central,4.0
+1235,2024-03-30,Air Fryer,Home & Kitchen,2,115.11,230.22,41.0,East,4.6
+1236,2024-05-22,Helmet,Sports,1,29.51,29.51,38.0,South,4.8
+1237,2024-11-21,Dress,Clothing,9,76.42,687.78,,South,5.0
+1238,2024-06-27,Yoga Mat,Sports,2,79.27,158.54,32.0,South,5.0
+1239,2024-12-09,Running Shoes,Sports,2,88.35,176.7,32.0,North,3.5
+1240,2024-07-29,Headphones,Electronics,2,,465.42,25.0,North,3.1
+1241,2024-10-08,Running Shoes,Sports,1,28.97,28.97,37.0,South,4.0
+1242,2024-06-10,Tablet,Electronics,2,379.87,759.74,49.0,East,
+1243,2024-07-25,Vacuum,Home & Kitchen,9,96.09,864.81,24.0,East,
+1244,2024-08-24,Novel,Books,15,,228.9,39.0,Central,4.2
+1245,2024-09-22,Yoga Mat,Sports,3,69.8,209.4,30.0,West,
+1246,2024-11-16,Air Fryer,Home & Kitchen,1,62.37,62.37,30.0,South,4.9
+1247,2024-05-16,Yoga Mat,Sports,1,107.45,107.45,55.0,West,3.3
+1248,2024-08-12,Textbook,Books,4,13.16,52.64,31.0,North,4.4
+1249,2024-11-18,Yoga Mat,Sports,1,71.8,7100.0,56.0,East,5.0
+1250,2024-06-08,Textbook,Books,1,32.69,32.69,30.0,West,3.5
+1251,2024-07-27,Novel,Books,7,34.8,243.6,,Central,4.1
+1252,2024-08-24,Headphones,Electronics,4,331.57,1326.28,35.0,East,3.1
+1253,2024-05-29,Headphones,Electronics,2,222.41,444.82,37.0,South,5.0
+1254,2024-09-04,Cookbook,Books,1,14.94,14.94,31.0,South,4.0
+1255,2024-10-09,Dumbbells,Sports,6,68.35,410.1,68.0,South,3.3
+1256,2024-11-02,Sneakers,Clothing,6,45.98,275.88,46.0,West,5.0
+1257,2024-05-21,Textbook,Books,1,32.72,32.72,45.0,East,4.8
+1258,2024-05-16,Running Shoes,Sports,6,99.05,594.3,47.0,Central,
+1259,2024-10-27,Smartphone,Electronics,4,380.05,1520.2,54.0,North,4.4
+1260,2024-08-16,Biography,Books,1,32.78,32.78,35.0,West,3.9
+1261,2024-06-19,Biography,Books,2,29.07,58.14,,North,3.4
+1262,2024-08-21,Comic,Books,6,22.7,136.2,40.0,South,3.8
+1263,2024-10-19,Cookware Set,Home & Kitchen,3,71.18,213.54,45.0,West,5.0
+1264,2024-01-23,Dumbbells,Sports,5,36.33,181.65,40.0,South,5.0
+1265,2024-07-16,Coffee Maker,Home & Kitchen,10,81.02,810.2,45.0,South,4.0
+1266,2024-03-05,Sneakers,Clothing,1,85.76,85.76,32.0,East,4.0
+1267,2024-02-21,Comic,Books,2,28.12,56.24,39.0,North,3.2
+1268,2024-08-21,Yoga Mat,Sports,2,78.73,157.46,31.0,Central,4.1
+1269,2024-12-01,Headphones,Electronics,5,134.22,671.1,56.0,South,3.7
+1270,2024-05-15,T-Shirt,Clothing,4,52.6,210.4,20.0,South,1.8
+1271,2024-11-28,Air Fryer,Home & Kitchen,1,135.38,135.38,25.0,South,4.4
+1272,2024-07-13,Smartphone,Electronics,1,380.19,380.19,22.0,Central,4.6
+1273,2024-01-19,Coffee Maker,Home & Kitchen,10,58.13,581.3,45.0,Central,3.7
+1274,2024-11-19,Novel,Books,2,26.24,52.48,19.0,West,3.2
+1275,2024-08-10,Cookware Set,Home & Kitchen,13,,1158.56,35.0,East,4.1
+1276,2024-03-26,Laptop,Electronics,1,136.68,136.68,22.0,South,5.0
+1277,2024-06-15,Blender,Home & Kitchen,6,96.79,580.74,,East,4.2
+1278,2024-07-10,Smartphone,Electronics,5,441.79,2208.95,45.0,North,5.0
+1279,2024-09-28,Dumbbells,Sports,1,30.18,30.18,40.0,West,4.4
+1280,2024-03-28,Helmet,Sports,5,67.23,336.15,29.0,West,5.0
+1281,2024-07-14,T-Shirt,Clothing,1,55.68,55.68,39.0,Central,3.2
+1282,2024-10-25,Textbook,Books,1,30.53,30.53,,South,2.1
+1283,2024-11-22,Jeans,Clothing,1,27.39,27.39,32.0,South,1.6
+1284,2024-12-07,Coffee Maker,Home & Kitchen,3,75.0,225.0,47.0,North,4.2
+1285,2024-12-12,Tablet,Electronics,5,139.86,699.3,26.0,North,3.8
+1286,2024-08-14,Textbook,Books,1,35.64,35.64,37.0,East,2.8
+1287,2024-11-23,Air Fryer,Home & Kitchen,3,124.3,372.9,35.0,North,3.8
+1288,2024-06-03,Running Shoes,Sports,2,70.21,140.42,35.0,South,3.2
+1289,2024-02-24,Sneakers,Clothing,1,27.8,27.8,25.0,South,3.5
+1290,2024-07-02,Sneakers,Clothing,3,69.04,207.12,31.0,Central,4.3
+1291,2024-01-12,Cookbook,Books,1,11.82,11.82,54.0,North,
+1292,2024-10-16,Running Shoes,Sports,1,104.74,104.74,38.0,East,3.2
+1293,2024-05-26,Smartwatch,Electronics,4,451.61,1806.44,48.0,South,4.4
+1294,2024-04-22,Dress,Clothing,2,77.5,155.0,53.0,North,4.0
+1295,2024-12-13,Dress,Clothing,2,65.94,131.88,58.0,North,4.0
+1296,2024-06-07,T-Shirt,Clothing,1,26.57,26.57,30.0,East,3.4
+1297,2024-07-05,Yoga Mat,Sports,7,,319.13,44.0,Central,3.3
+1298,2024-06-16,T-Shirt,Clothing,4,56.13,224.52,58.0,North,4.2
+1299,2024-03-08,Dumbbells,Sports,1,109.7,109.7,38.0,West,
+1300,2024-09-13,Cookbook,Books,1,27.37,27.37,34.0,Central,2.3
+1301,2024-09-03,Cookware Set,Home & Kitchen,7,127.26,890.82,32.0,North,5.0
+1302,2024-08-27,Vacuum,Home & Kitchen,2,84.52,169.04,40.0,East,4.7
+1303,2024-12-12,Headphones,Electronics,2,396.97,793.94,50.0,West,3.8
+1304,2024-02-16,Helmet,Sports,7,62.29,436.03,,North,2.4
+1305,2024-10-01,Yoga Mat,Sports,8,44.88,359.04,55.0,North,5.0
+1306,2024-12-10,Tablet,Electronics,4,174.34,697.36,43.0,North,4.0
+1307,2024-11-22,Air Fryer,Home & Kitchen,1,68.51,68.51,37.0,South,4.9
+1308,2024-08-29,Blender,Home & Kitchen,1,144.49,144.49,47.0,West,1.2
+1309,2024-06-16,Smartwatch,Electronics,2,347.36,694.72,33.0,Central,2.8
+1310,2024-11-21,Textbook,Books,11,15.97,175.67,22.0,East,4.8
+1311,2024-02-29,Running Shoes,Sports,5,38.3,191.5,37.0,South,4.2
+1312,2024-06-04,T-Shirt,Clothing,1,,27.46,38.0,East,2.6
+1313,2024-04-30,Yoga Mat,Sports,2,95.88,191.76,19.0,East,3.4
+1314,2024-08-20,Textbook,Books,3,28.08,84.24,33.0,South,
+1315,2024-10-27,Air Fryer,Home & Kitchen,1,128.37,128.37,34.0,South,5.0
+1316,2024-09-07,Sneakers,Clothing,6,76.88,461.28,50.0,East,4.0
+1317,2024-01-17,Biography,Books,1,12.02,5500.0,37.0,North,3.8
+1318,2024-08-15,Cookware Set,Home & Kitchen,3,152.39,457.17,46.0,South,3.7
+1319,2024-12-17,Jacket,Clothing,2,56.74,113.48,48.0,East,4.1
+1320,2024-02-01,Air Fryer,Home & Kitchen,2,101.87,203.74,63.0,North,3.7
+1321,2024-03-03,Running Shoes,Sports,1,29.97,29.97,51.0,West,
+1322,2024-11-24,Yoga Mat,Sports,1,83.06,83.06,30.0,West,5.0
+1323,2024-06-19,Novel,Books,7,13.78,96.46,48.0,East,4.2
+1324,2024-04-15,Jeans,Clothing,9,68.62,617.58,66.0,Central,3.7
+1325,2024-10-27,Smartwatch,Electronics,7,338.98,2372.86,51.0,West,4.9
+1326,2024-03-16,Jeans,Clothing,1,66.97,66.97,57.0,North,2.8
+1327,2024-03-15,Novel,Books,1,26.76,26.76,37.0,North,4.1
+1328,2024-03-30,Dress,Clothing,7,75.31,527.17,57.0,North,4.2
+1329,2024-01-08,Laptop,Electronics,7,276.55,1935.85,52.0,West,2.7
+1330,2024-06-14,Cookware Set,Home & Kitchen,5,131.47,657.35,34.0,Central,5.0
+1331,2024-01-27,Headphones,Electronics,6,,1020.48,35.0,North,3.8
+1332,2024-02-28,Sneakers,Clothing,2,47.24,94.48,57.0,Central,3.0
+1333,2024-07-04,Tablet,Electronics,2,293.26,586.52,30.0,South,2.6
+1334,2024-08-19,Comic,Books,1,10.98,10.98,57.0,East,4.7
+1335,2024-01-23,Textbook,Books,3,21.51,64.53,49.0,Central,3.5
+1336,2024-11-25,Cookbook,Books,3,21.94,65.82,21.0,South,2.3
+1337,2024-07-24,Laptop,Electronics,3,325.1,975.3,54.0,South,4.3
+1338,2024-12-30,Yoga Mat,Sports,6,86.75,520.5,47.0,South,4.1
+1339,2024-06-13,Yoga Mat,Sports,1,103.98,103.98,28.0,East,3.5
+1340,2024-03-05,Textbook,Books,2,15.93,31.86,26.0,East,2.8
+1341,2024-10-07,Air Fryer,Home & Kitchen,5,104.7,523.5,49.0,Central,2.4
+1342,2024-09-28,Coffee Maker,Home & Kitchen,4,72.71,5900.0,26.0,Central,3.6
+1343,2024-11-05,Coffee Maker,Home & Kitchen,1,121.73,121.73,39.0,Central,2.6
+1344,2024-12-01,Yoga Mat,Sports,4,36.32,145.28,18.0,East,4.2
+1345,2024-08-19,Textbook,Books,10,22.06,220.6,,South,5.0
+1346,2024-08-20,Sneakers,Clothing,1,65.24,65.24,39.0,North,4.3
+1347,2024-06-09,Basketball,Sports,6,100.45,602.7,,East,3.2
+1348,2024-07-10,Running Shoes,Sports,3,61.41,184.23,23.0,North,3.2
+1349,2024-02-16,Sneakers,Clothing,5,41.05,205.25,34.0,East,4.9
+1350,2024-02-19,Laptop,Electronics,4,160.83,643.32,27.0,South,5.0
+1351,2024-01-31,Cookware Set,Home & Kitchen,3,60.16,180.48,45.0,Central,4.2
+1352,2024-06-17,Comic,Books,1,11.58,11.58,38.0,Central,3.7
+1353,2024-12-06,Tablet,Electronics,3,330.01,990.03,31.0,North,2.6
+1354,2024-11-03,Yoga Mat,Sports,3,,205.44,28.0,North,5.0
+1355,2024-10-22,Vacuum,Home & Kitchen,2,126.11,252.22,44.0,East,5.0
+1356,2024-12-02,Textbook,Books,1,11.14,11.14,31.0,West,2.9
+1357,2024-06-28,Dumbbells,Sports,1,56.79,56.79,38.0,East,3.1
+1358,2024-05-22,Cookbook,Books,1,30.61,30.61,40.0,East,2.4
+1359,2024-10-14,Textbook,Books,7,26.57,185.99,18.0,South,
+1360,2024-01-14,Comic,Books,2,27.08,54.16,58.0,Central,4.2
+1361,2024-04-02,Cookbook,Books,2,10.62,21.24,44.0,East,3.9
+1362,2024-06-28,Vacuum,Home & Kitchen,1,122.8,122.8,40.0,North,2.5
+1363,2024-10-16,Headphones,Electronics,1,293.89,293.89,29.0,West,4.9
+1364,2024-11-20,Yoga Mat,Sports,4,93.12,372.48,24.0,West,3.5
+1365,2024-04-20,Laptop,Electronics,15,472.63,7089.45,52.0,Central,3.9
+1366,2024-06-23,Basketball,Sports,3,78.95,236.85,40.0,South,3.5
+1367,2024-06-15,Jacket,Clothing,1,78.26,78.26,46.0,North,4.7
+1368,2024-01-27,Comic,Books,1,17.18,17.18,28.0,East,2.6
+1369,2024-01-26,Jeans,Clothing,1,85.74,85.74,18.0,Central,4.3
+1370,2024-12-04,Smartphone,Electronics,2,292.7,585.4,,South,5.0
+1371,2024-08-14,Basketball,Sports,8,68.5,548.0,38.0,Central,3.7
+1372,2024-09-19,Running Shoes,Sports,2,99.93,199.86,41.0,West,4.1
+1373,2024-02-26,Smartphone,Electronics,5,,1196.25,35.0,South,3.1
+1374,2024-09-26,Air Fryer,Home & Kitchen,1,123.39,123.39,38.0,South,3.8
+1375,2024-07-21,Blender,Home & Kitchen,4,138.7,554.8,37.0,West,4.5
+1376,2024-04-14,Novel,Books,3,,88.95,38.0,East,2.6
+1377,2024-05-10,Cookware Set,Home & Kitchen,2,57.56,115.12,30.0,West,3.6
+1378,2024-01-04,Vacuum,Home & Kitchen,1,56.22,56.22,38.0,East,4.3
+1379,2024-03-07,Basketball,Sports,11,63.18,694.98,38.0,West,2.0
+1380,2024-09-13,Helmet,Sports,2,36.22,72.44,23.0,West,
+1381,2024-07-22,Cookbook,Books,3,26.56,79.68,35.0,East,5.0
+1382,2024-08-23,Tablet,Electronics,1,498.07,498.07,39.0,East,3.5
+1383,2024-08-07,Smartphone,Electronics,13,214.69,2790.97,30.0,Central,3.5
+1384,2024-05-28,Biography,Books,4,10.68,42.72,39.0,South,3.8
+1385,2024-06-15,Tablet,Electronics,6,355.71,2134.26,49.0,East,2.5
+1386,2024-12-19,Dress,Clothing,3,51.26,153.78,21.0,South,3.6
+1387,2024-02-24,Blender,Home & Kitchen,2,89.7,179.4,44.0,South,4.5
+1388,2024-07-24,Sneakers,Clothing,5,23.24,116.2,31.0,Central,1.5
+1389,2024-06-07,Novel,Books,1,16.01,16.01,31.0,South,4.2
+1390,2024-03-27,Cookware Set,Home & Kitchen,3,,197.46,37.0,North,4.3
+1391,2024-09-28,Smartwatch,Electronics,1,330.48,330.48,52.0,East,3.7
+1392,2024-06-28,Textbook,Books,1,22.18,22.18,32.0,North,3.0
+1393,2024-03-15,Jeans,Clothing,5,54.63,273.15,21.0,East,2.3
+1394,2024-11-04,Cookware Set,Home & Kitchen,2,134.2,268.4,29.0,West,4.7
+1395,2024-11-17,T-Shirt,Clothing,4,52.04,208.16,46.0,West,3.4
+1396,2024-10-23,Basketball,Sports,1,101.9,101.9,63.0,Central,3.3
+1397,2024-06-14,Helmet,Sports,4,101.35,405.4,53.0,Central,5.0
+1398,2024-02-04,Cookware Set,Home & Kitchen,1,102.21,102.21,43.0,South,3.2
+1399,2024-05-20,Basketball,Sports,3,83.62,250.86,33.0,North,4.0
+1400,2024-09-16,Novel,Books,1,9.33,9.33,21.0,North,2.9
